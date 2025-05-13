@@ -1,0 +1,8 @@
+title: Sophie Bluel
+exclude:
+  - Backend
+  - node_modules
+  - README.md
+  - package.json
+  - yarn.lock
+  - .gitignore
